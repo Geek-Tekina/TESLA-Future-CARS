@@ -6,5 +6,7 @@ Using HTML and CSS , I have tried to clone the website of TESLA motors .<br> Tho
 #begineer
 </h2>
 
-<img src="https://github.com/Geek-Tekina/TESLA-Future-CARS/blob/master/giphy.gif?raw=true" height=200px width =300px left-margin=300px>
+<img src="https://github.com/Geek-Tekina/TESLA-Future-CARS/blob/master/giphy.gif?raw=true" height=200px width =300px >
+<br>
+<h1><font color=red>Learning On the GO!</font></h1>
 
