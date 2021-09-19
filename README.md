@@ -5,6 +5,5 @@ Using HTML and CSS , I have tried to clone the website of TESLA motors .<br> Tho
 #not-responsive <br>
 #begineer
 </h2>
-<center> <iframe src="https://giphy.com/embed/TRdV7Bk5JVdVm" width="480" height="248" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/naruto-TRdV7Bk5JVdVm">via GIPHY</a></p>
-  </center>
+<center> <img src="http://justanimegifs.tumblr.com/post/19734511752" height =400 width =300> </center>
 
