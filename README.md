@@ -5,4 +5,5 @@ Using HTML and CSS , I have tried to clone the website of TESLA motors .<br> Tho
 #not-responsive <br>
 #begineer
 </h2>
+<center> <img src="https://media.giphy.com/media/3d4RmvOnRoYrnRBcFS/giphy.gif" height =400 width =300> </center>
 
