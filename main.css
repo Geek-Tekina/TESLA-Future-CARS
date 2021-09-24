@@ -24,36 +24,42 @@
             display: inline-block;
             height: 22px;
             width: 100px;
-            margin-left: 6vw;
         }
 
         .navbar {
-            overflow: hidden;
-            margin-top: 10px;
-            vertical-align: top;
-
+            display: flex;
+            justify-content: space-between;
+            margin: 10px 45px 0px 50px;
         }
-
-
 
         .navbar li {
             font-weight: bold;
             display: inline;
-            padding-right: 20px;
+        }
+
+        .navbar li:not(:last-child) {
+            margin-right: 25px;
         }
 
         #change1 {
-            padding-left: 11vw;
+            padding-left: 4vw;
 
         }
 
-        #change2 {
-            padding-left: 10vw;
-        }
-
-       
         iframe{
             height: 88vh;
             width: 100vw;
             border: none;
         }
+        
+        .nav-item-min-lg {
+            display: none !important;
+        }
+
+        /* large desktops, 1200px and up */
+        @media (min-width: 1200px) {
+            .nav-item-min-lg {
+                display: inline !important;
+            }
+
+        } 
