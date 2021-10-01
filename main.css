@@ -11,7 +11,7 @@
 
         .topbox {
 
-            overflow: hidden;
+            /* overflow: hidden; */
             width: 100%;
             height: 4vh;
             margin-top: 20px;
@@ -21,15 +21,18 @@
         }
 
         .leftlogo {
-            display: inline-block;
-            height: 22px;
+            /* display: inline-block; */
+            height: 30px;
             width: 100px;
         }
 
         .navbar {
+            position: absolute;
+            width: 96%;
             display: flex;
             justify-content: space-between;
-            margin: 10px 45px 0px 50px;
+            margin: 15px 0px 0px 40px;
+            /* border: 1px solid black; */
         }
 
         .navbar li {
@@ -37,18 +40,28 @@
             display: inline;
         }
 
+        .navbar li:first-child {
+            /* margin-left: 4vw; */
+        }
+
         .navbar li:not(:last-child) {
             margin-right: 25px;
         }
 
-        #change1 {
-            padding-left: 4vw;
+        .navbar ul li:hover{
+            background-color: rgba(117, 117, 121, 0.253);
+            /* border: 1px solid red; */
+        }
 
+        #change1 {
+            /* padding-left: 4vw; */
+            /* margin-left: 4vw; */
         }
 
         iframe{
-            height: 88vh;
-            width: 100vw;
+            overflow-y: hidden;
+            height: 100vh;
+            width: 100%;
             border: none;
         }
         
