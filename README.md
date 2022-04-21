@@ -3,7 +3,7 @@ Using HTML and CSS , I have tried to clone the website (Homepage) of TESLA motor
 <br><br><br>
   link : https://geek-tekina.github.io/TESLA-Future-CARS/ <br><br>
 <br><br>
-#begineer<br>
+
 </h2>
 
 <img src="https://github.com/Geek-Tekina/TESLA-Future-CARS/blob/master/giphy.gif?raw=true" height=200px width =300px >
