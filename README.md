@@ -8,6 +8,6 @@ Using HTML and CSS , I have tried to clone the website (Homepage) of TESLA motor
 
 <img src="https://github.com/Geek-Tekina/TESLA-Future-CARS/blob/master/giphy.gif?raw=true" height=200px width =300px >
 <br>
-<h1>Learning On the GO!</h1>
+
 
 </b>
